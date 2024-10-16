@@ -311,7 +311,7 @@ export function Main() {
                   </h2>
                   <p className="mt-4 text-sm text-gray-500">
                     {plan.name === "Enterprise"
-                      ? "Soluções personalizadas para operações em grande escala"
+                      ? "Soluções personalizadas para operações em escala"
                       : "Perfeito para negócios em crescimento"}
                   </p>
                   <p className="mt-8">

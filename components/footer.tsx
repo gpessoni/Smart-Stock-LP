@@ -47,7 +47,7 @@ export function Footer() {
                 <ul className="mt-4 space-y-4">
                   <li>
                     <a
-                      href="#"
+                      href="/preco"
                       className="text-base text-gray-300 hover:text-white"
                     >
                       Preços
