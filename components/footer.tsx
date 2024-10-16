@@ -72,7 +72,7 @@ export function Footer() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="blog"
                       className="text-base text-gray-300 hover:text-white"
                     >
                       Blog
