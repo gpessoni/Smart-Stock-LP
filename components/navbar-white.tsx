@@ -47,7 +47,7 @@ export function NavbarWhite() {
                   Home
                 </a>
                 <a
-                  href="#pricing"
+                  href="/preco"
                   className={`px-3 py-2 rounded-md text-sm font-medium ${
                     scrolled
                       ? "text-gray-800 hover:text-primary"
@@ -55,6 +55,16 @@ export function NavbarWhite() {
                   }`}
                 >
                   Preços
+                </a>
+                <a
+                  href="/analises"
+                  className={`px-3 py-2 rounded-md text-sm font-medium ${
+                    scrolled
+                      ? "text-gray-800 hover:text-primary"
+                      : "text-white hover:text-gray-300"
+                  }`}
+                >
+                  Análises
                 </a>
                 <a
                   href="#blog"

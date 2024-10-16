@@ -58,14 +58,6 @@ export function Footer() {
                       href="#"
                       className="text-base text-gray-300 hover:text-white"
                     >
-                      Documentação
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="text-base text-gray-300 hover:text-white"
-                    >
                       Guias
                     </a>
                   </li>
