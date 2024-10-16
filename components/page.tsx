@@ -1,15 +1,9 @@
 "use client";
 
 import {
-  CheckCircle,
-  Facebook,
-  Instagram,
-  Linkedin,
-  Menu,
-  Package,
-  X,
+  CheckCircle
 } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Footer } from "./footer";
 import { Navbar } from "./navbar";
 

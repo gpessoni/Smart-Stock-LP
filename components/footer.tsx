@@ -16,7 +16,7 @@ export function Footer() {
                 <ul className="mt-4 space-y-4">
                   <li>
                     <a
-                      href="#"
+                      href="stock"
                       className="text-base text-gray-300 hover:text-white"
                     >
                       Gestão de Estoque
@@ -24,18 +24,10 @@ export function Footer() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="inventarios"
                       className="text-base text-gray-300 hover:text-white"
                     >
-                      Processamento de Pedidos
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="#"
-                      className="text-base text-gray-300 hover:text-white"
-                    >
-                      Análises
+                      Inventários e Transfêrencias
                     </a>
                   </li>
                 </ul>
@@ -55,10 +47,10 @@ export function Footer() {
                   </li>
                   <li>
                     <a
-                      href="#"
+                      href="analises"
                       className="text-base text-gray-300 hover:text-white"
                     >
-                      Guias
+                      Análises
                     </a>
                   </li>
                 </ul>
