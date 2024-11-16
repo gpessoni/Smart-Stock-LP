@@ -11,11 +11,13 @@ O **SmartStock** oferece uma solução robusta e intuitiva para a gestão de est
 Como Começar
 ------------
 
-1.  bashCopiar códigonpm run dev# ouyarn dev# oupnpm dev# oubun dev
+1.  npm i
+   
+2. npm run dev 
     
-2.  **Acesse a aplicação**: Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar a página.
+3.  **Acesse a aplicação**: Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar a página.
     
-3.  **Edição em tempo real**: Comece a editar a página modificando app/page.tsx. As alterações serão aplicadas automaticamente.
+4.  **Edição em tempo real**: Comece a editar a página modificando app/page.tsx. As alterações serão aplicadas automaticamente.
     
 
 Este projeto utiliza [next/font](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) para otimizar e carregar a fonte [Geist](https://vercel.com/font) da Vercel.
