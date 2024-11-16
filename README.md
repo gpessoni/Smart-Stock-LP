@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+SmartStock Landing Page
+=======================
 
-## Getting Started
+Este é um projeto **Next.js** inicializado com [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-First, run the development server:
+Introdução
+----------
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O **SmartStock** oferece uma solução robusta e intuitiva para a gestão de estoque de pequenas e médias empresas. A plataforma foi projetada para simplificar o gerenciamento de produtos, inventários e movimentações, otimizando processos operacionais e aumentando a eficiência.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Como Começar
+------------
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1.  bashCopiar códigonpm run dev# ouyarn dev# oupnpm dev# oubun dev
+    
+2.  **Acesse a aplicação**: Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar a página.
+    
+3.  **Edição em tempo real**: Comece a editar a página modificando app/page.tsx. As alterações serão aplicadas automaticamente.
+    
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Este projeto utiliza [next/font](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) para otimizar e carregar a fonte [Geist](https://vercel.com/font) da Vercel.
 
-## Learn More
+Funcionalidades da Plataforma
+-----------------------------
 
-To learn more about Next.js, take a look at the following resources:
+*   **Gerenciamento de Produtos**: Controle detalhado de produtos com categorização por tipo, grupo e unidade de medida.
+    
+*   **Inventário Automatizado**: Ferramenta para registro e processamento de inventários, permitindo ajustes em tempo real.
+    
+*   **Movimentação e Transferências**: Possibilidade de realizar transferências de produtos entre diferentes endereços de armazenamento.
+    
+*   **Solicitações de Estoque**: Criação e gestão de solicitações desde a separação até a entrega.
+    
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Aprenda Mais
+------------
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Para explorar mais sobre o **Next.js**, confira os seguintes recursos:
 
-## Deploy on Vercel
+*   [Documentação do Next.js](https://nextjs.org/docs) – informações detalhadas sobre os recursos e a API do Next.js.
+    
+*   [Aprenda Next.js](https://nextjs.org/learn) – um tutorial interativo de Next.js.
+    
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Confira também o [repositório do Next.js no GitHub](https://github.com/vercel/next.js) para contribuir e deixar seu feedback.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deploy na Vercel
+----------------
+
+A forma mais fácil de implantar sua aplicação Next.js é através da [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), criada pelos desenvolvedores do Next.js.
+
+Para mais detalhes, consulte a [documentação de deploy do Next.js](https://nextjs.org/docs/app/building-your-application/deploying).
+
+O **SmartStock** foi projetado para simplificar e otimizar a gestão de estoque, proporcionando uma interface moderna e amigável com funcionalidades que atendem às demandas operacionais de pequenas e médias empresas.
